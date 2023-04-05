@@ -1,5 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/5jl3xsu106wcxhcs?svg=true)](https://ci.appveyor.com/project/DariTat/testing)
-GitHub Pages:  https://daritat.github.io/testing/
+[GitHub Pages](https://daritat.github.io/testing/)
 # Домашнее задание к занятию "4.Организация тестирования"
 
 Правила сдачи задания:
